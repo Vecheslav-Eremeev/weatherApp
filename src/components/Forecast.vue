@@ -34,7 +34,7 @@ export default {
   },
   methods: {
     async fetchWeaterData() {
-      const api_key = "633983ebe5532463350062a62b526b9a";
+      const api_key = "3de86b1cc29a7e2c02914bf19e0de2eb";
       const base_url = "https://api.openweathermap.org/data/2.5/";
 
       await axios
